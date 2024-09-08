@@ -52,7 +52,6 @@ The `ComposableInfoCard` is a reusable composable that displays a title and a de
 ## Credits
 
 - **Project Development**: [Harmandeep](mailto:sharmandeep954@gmail.com)
-- **Assistance with Documentation**: ChatGPT by OpenAI
 
 ## Contributing
 
